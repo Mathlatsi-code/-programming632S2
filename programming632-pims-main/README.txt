@@ -1,7 +1,7 @@
 =====================================================================
  HEALTHFIRST PHARMACY - PHARMACY INVENTORY MANAGEMENT SYSTEM (PIMS)
  PRO632 Assignment | Java Swing/AWT + JDBC + MySQL
- GitHub repository: <PASTE YOUR PUBLIC REPO LINK HERE>
+ GitHub repository: <https://github.com/Mathlatsi-code/-programming632S2>
 =====================================================================
 
 DEFAULT LOGIN CREDENTIALS
@@ -10,19 +10,6 @@ DEFAULT LOGIN CREDENTIALS
  Cashier       :  cashier  /  cash123
  Cashier (2nd) :  thandi   /  cash123
 
-HOW TO RUN
----------------------------------------------------------------------
- 1. Start MySQL (XAMPP: click "Start" next to MySQL). Default settings
-    expected: localhost:3306, user "root", empty password.
-    (If yours differs, edit db.properties.)
- 2. Run the application using ONE of these:
-      - yourname_pims.exe   (the Windows executable)
-      - run.bat             (or:  java -jar pims.jar)
- 3. On the very first run the application creates the database
-    "healthfirst_pims" automatically from database.sql, including the
-    tables and sample data (3 users, 5 suppliers, 16 medicines, 6 sales).
-    You can also import database.sql manually in MySQL Workbench or
-    phpMyAdmin.
 
 REQUIREMENTS
 ---------------------------------------------------------------------
