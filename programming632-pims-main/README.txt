@@ -1,7 +1,7 @@
 =====================================================================
  HEALTHFIRST PHARMACY - PHARMACY INVENTORY MANAGEMENT SYSTEM (PIMS)
  PRO632 Assignment | Java Swing/AWT + JDBC + MySQL
- GitHub repository: <https://github.com/Mathlatsi-code/-programming632S2>
+ GitHub repository: https://github.com/Mathlatsi-code/-programming632S2
 =====================================================================
 
 DEFAULT LOGIN CREDENTIALS
