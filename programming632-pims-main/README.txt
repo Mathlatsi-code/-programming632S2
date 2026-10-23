@@ -11,14 +11,6 @@ DEFAULT LOGIN CREDENTIALS
  Cashier (2nd) :  thandi   /  cash123
 
 
-REQUIREMENTS
----------------------------------------------------------------------
- - Java 11 or newer (JRE/JDK)   - MySQL 8 or XAMPP (MariaDB)
- - JDBC driver: lib/mariadb-java-client.jar is included. If you use
-   MySQL 8 with its default authentication, place mysql-connector-j
-   (renamed lib/mysql-connector-j.jar) in lib/ - it is picked up
-   automatically.
-
 FEATURES BY ROLE
 ---------------------------------------------------------------------
  LOGIN        Secure login (passwords stored as SHA-256 hashes), error
